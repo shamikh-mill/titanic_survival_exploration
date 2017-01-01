@@ -10,8 +10,6 @@ Uses:
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-
-
 ### Data
 
 The dataset used in this project is included as `titanic_data.csv`. This dataset is provided by Udacity and contains the following attributes:
